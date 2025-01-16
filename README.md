@@ -1,6 +1,6 @@
-# Cube-Smash
+# Block Buster
 
-Cube Smash is an interactive 3D game that challenges players to smash cubes for points while enjoying engaging visuals and smooth gameplay. This project is built using HTML, CSS, and JavaScript, making it accessible and lightweight to run in any modern browser.
+Block Buster is an interactive 3D game that challenges players to smash cubes for points while enjoying engaging visuals and smooth gameplay. This project is built using HTML, CSS, and JavaScript, making it accessible and lightweight to run in any modern browser.
 
 ---
 
